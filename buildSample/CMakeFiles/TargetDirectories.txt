@@ -1,3 +1,0 @@
-/home/taharabun/Projects/traj-opt/Wolf-Sheep/buildSample/CMakeFiles/edit_cache.dir
-/home/taharabun/Projects/traj-opt/Wolf-Sheep/buildSample/CMakeFiles/rebuild_cache.dir
-/home/taharabun/Projects/traj-opt/Wolf-Sheep/buildSample/CMakeFiles/tableSample.dir

@@ -1,6 +1,0 @@
-utilitiesTest 3 0.000737628
-dynamicTest 2 0.00133081
-optimizerTest 2 0.00859954
-derivativeTest 2 0.00392679
-mujocoTest 0 0
----
